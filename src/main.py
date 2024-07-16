@@ -9,10 +9,14 @@ def translate_text(text, output_language):
 def translate_ppt(input_ppt, output_ppt, output_language):
     pass
 
+# TODO: 1. copy each slide to new ppt 
+# TODO: 2. extract text run with properties 
+# TODO: 3. translate them 
+# TODO: 4. replace previous run with translated
+
 def main():
     dir_path = os.path.dirname(os.path.realpath(__file__))
     input_ppt = os.path.join(dir_path, '../inputs/test.pptx') 
-    print(input_ppt)
     output_language = 'en'
     output_ppt = os.path.join(dir_path, '../outputs/', os.path.splitext(input_ppt)[0] + '_translate.pptx') 
     
