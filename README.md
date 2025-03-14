@@ -17,7 +17,7 @@ A Python-based tool for translating PowerPoint presentations using the DeepL API
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ppt-translator.git
+git clone https://github.com/Asi0Flammeus/ppt-translator.git
 cd ppt-translator
 ```
 
