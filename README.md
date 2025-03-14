@@ -1,6 +1,3 @@
-Here's a comprehensive README.md file for the PPT Translator project:
-
-```markdown
 # PPT Translator
 
 A Python-based tool for translating PowerPoint presentations using the DeepL API.
@@ -16,6 +13,7 @@ A Python-based tool for translating PowerPoint presentations using the DeepL API
 ### Ubuntu
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/Asi0Flammeus/ppt-translator.git
 cd ppt-translator
