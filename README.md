@@ -16,12 +16,16 @@ A Python-based tool for translating PowerPoint presentations using the DeepL API
 
 ```bash
 git clone https://github.com/Asi0Flammeus/ppt-translator.git
+```
+```
 cd ppt-translator
 ```
 
 2. Create and activate a virtual environment:
 ```bash
 python3 -m venv venv
+```
+```
 source venv/bin/activate
 ```
 
